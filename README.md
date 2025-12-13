@@ -15,7 +15,7 @@ Below are my featured projects!
 - Improved minority-class recall through threshold tuning
 - Includes AUC, F1, ROC, and confusion matrix analyses
 
-**GitHub Repo can be found [here]()**
+**GitHub Repo can be found [here](https://github.com/carlo88uy/NBA-Triple-Double-Prediction)**
 
 ## 2. Patient Segmentation & Risk Profiling
 **Techniques used**: Python, Scikit-learn, Clustering, Feature Engineering
@@ -25,7 +25,7 @@ Below are my featured projects!
 - Achieved 0.9673 accuracy with extremely strong ROC/AUC separation
 - Produced a full analytical report and vizualization
 
-**GitHub Repo can be found [here]()**
+**GitHub Repo can be found [here](https://github.com/carlo88uy/Patient-Clustering-Project)**
 
 ## 3.Airbnb 216 Market Analysis
 **Techniques used**: Tablea Public, Table Joining
@@ -34,7 +34,7 @@ Below are my featured projects!
 - Includes geographic mapping and dynamic filtering
 - Demonstrates data storytelling and BI visualization skills
 
-**Live Dashboard can be found [here](), along with the [GitHub Repo]()
+**Live Dashboard can be found [here](https://public.tableau.com/app/profile/carlo.uy6255/viz/AIRBNBFullProject_17656587279090/Dashboard1?publish=yes), along with the [GitHub Repo](https://github.com/carlo88uy/AIR-BNB-BASIC-TRENDS)
 
 # Skills
 - Programming: Python R, SQL
@@ -45,8 +45,8 @@ Below are my featured projects!
 
 # Contact
 - Email: carlo88uy@gmail.com
-- LinkedIn:
-- GitHub:
+- LinkedIn: www.linkedin.com/in/carlo-uy-300104257
+- GitHub: https://github.com/carlo88uy
 <!--
 **carlo88uy/carlo88uy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

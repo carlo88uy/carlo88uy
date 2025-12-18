@@ -29,7 +29,6 @@ Hi, I'm Carlo, a student at University of Central Florida with experience in:
 
 - Clustered over 100,000 patient data into 4 risk groups
 - Built a supervised model to predict cluster membership
-- Achieved 0.9673 accuracy with extremely strong ROC/AUC separation
 - Produced a full analytical report and vizualization
 
 **GitHub Repo can be found [here](https://github.com/carlo88uy/Patient-Clustering-Project)**

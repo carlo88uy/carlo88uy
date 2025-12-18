@@ -12,11 +12,6 @@ Hi, I'm Carlo, a student at University of Central Florida with experience in:
 - Tools: Jupyter Notebook, GitHub
 - Soft Skills: Communication, Team Collaboration, Project Leadership
 
-# Contact
-- Email: carlo88uy@gmail.com
-- LinkedIn: www.linkedin.com/in/carlo-uy-300104257
-- GitHub: https://github.com/carlo88uy
-
 **You can find basic information about my featured projects below:**
 
 ## 1. Nba Triple-Double Prediction Model (Classification & Model Optimization)
@@ -60,9 +55,8 @@ Hi, I'm Carlo, a student at University of Central Florida with experience in:
 **GitHub Repo can be found [here](https://github.com/carlo88uy/BASIC-NBA-EDA)
 
 
-# Skills
-- Programming: Python R, SQL
-- ML Techniques: Classification, Clustering, Model Tuning, Threshold Optimization
-- Visualization: Tableau, Matplotlib, Seaborn
-- Tools: Jupyter Notebook, GitHub
-- Soft Skills: Communication, Team Collaboration, Project Leadership
+# Contact
+- Email: carlo88uy@gmail.com
+- LinkedIn: www.linkedin.com/in/carlo-uy-300104257
+- GitHub: https://github.com/carlo88uy
+
